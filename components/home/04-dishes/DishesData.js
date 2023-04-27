@@ -27,21 +27,21 @@ export const DISHES_DATA = [
 		id: 2,
 		title: "Croustilles particulières",
 		description:
-			"Chips de sauterelles, grillons et chenilles, accompagnés respectivement d'une sauce sureau et baies de genièvre, sauce tomate et basilic, et d'une sauce blanche aux pleurotes, ail des ours et ciboulettes.",
+			"Chips de sauterelles, grillons et chenilles, accompagnées respectivement d'une sauce sureau et baies de genièvre, sauce tomate et basilic, et d'une sauce blanche aux pleurotes, ail des ours et ciboulettes.",
 		image: assiette3,
 	},
 	{
 		id: 3,
-		title: "Sanglier au baies forestières",
+		title: "Sanglier aux baies forestières",
 		description:
-			"Filet tendre de sanglier mariné aux baies forestières, accompagnée d'une sauce onctueuse et caramélisée aux champignons et fruits rouges (framboises, airelles et mûres).",
+			"Filet tendre de sanglier mariné aux baies forestières, accompagné d'une sauce onctueuse et caramélisée aux champignons et fruits rouges (framboises, airelles et mûres).",
 		image: assiette4,
 	},
 	{
 		id: 4,
 		title: "Champignons sublimés",
 		description:
-			"Velouté de cèpes et épinards, garnis de trompettes de la mort, cèpes et pleurotes dorées, tendres et moelleuses.",
+			"Velouté de cèpes et épinards, garni de trompettes de la mort, cèpes et pleurotes dorées, tendres et moelleuses.",
 		image: assiette5,
 	},
 	{

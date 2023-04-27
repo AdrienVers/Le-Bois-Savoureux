@@ -31,16 +31,16 @@ export const FOOD_MENU_DATA: FoodMenuData[] = [
 		name: "Croustilles particulières",
 		price: 6,
 		description:
-			"Chips de sauterelles, grillons et chenilles, accompagnés respectivement d'une sauce sureau et baies de genièvre, sauce tomate et basilic, et d'une sauce blanche aux pleurotes, ail des ours et ciboulettes.",
+			"Chips de sauterelles, grillons et chenilles, accompagnées respectivement d'une sauce sureau et baies de genièvre, sauce tomate et basilic, et d'une sauce blanche aux pleurotes, ail des ours et ciboulettes.",
 		ingredients: "Sauterelles, grillons, chenilles, accompagnés de sauces.",
 		category: "ENTRÉES",
 	},
 	{
 		id: 3,
-		name: "Sanglier au baies forestières",
+		name: "Sanglier aux baies forestières",
 		price: 14,
 		description:
-			"Filet tendre de sanglier mariné aux baies forestières, accompagnée d'une sauce onctueuse et caramélisée aux champignons et fruits rouges (framboises, airelles et mûres).",
+			"Filet tendre de sanglier mariné aux baies forestières, accompagné d'une sauce onctueuse et caramélisée aux champignons et fruits rouges (framboises, airelles et mûres).",
 		ingredients: "Sanglier, baies, champignons, fruits rouges.",
 		category: "PLATS",
 	},
@@ -49,7 +49,7 @@ export const FOOD_MENU_DATA: FoodMenuData[] = [
 		name: "Champignons sublimés",
 		price: 12,
 		description:
-			"Velouté de cèpes et épinards, garnis de trompettes de la mort, cèpes et pleurotes dorées, tendres et moelleuses.",
+			"Velouté de cèpes et épinards, garni de trompettes de la mort, cèpes et pleurotes dorées, tendres et moelleuses.",
 		ingredients:
 			"Cèpes, velouté d'épinards, trompettes de la mort et pleurotes.",
 		category: "PLATS",
