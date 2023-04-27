@@ -307,7 +307,7 @@ export default {
 					box-shadow: 0 0 0 1px rgb(200, 200, 200);
 					padding: 12px;
 					background-color: rgb(255, 255, 255);
-					font-size: 1.15vw;
+					font-size: 1vw;
 
 					&:hover {
 						cursor: pointer;
